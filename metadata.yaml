@@ -19,6 +19,8 @@ covers:
 - cover_type: archival
   image_path: 45696-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45696#Aladdin-en-de-wonderlamp-Verhaal-uit-de-duizend-en-een-nacht-
 gutenberg_issued: '2014-05-19'
 gutenberg_type: Text
 identifiers:
