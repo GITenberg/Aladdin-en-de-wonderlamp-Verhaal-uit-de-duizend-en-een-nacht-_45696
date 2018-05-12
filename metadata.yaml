@@ -1,0 +1,36 @@
+_repo: Aladdin-en-de-wonderlamp-Verhaal-uit-de-duizend-en-een-nacht-_45696
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Heath, Sidney
+    aliases:
+    - Heath, Sidney Herbert
+    - Heath, Sidney H.
+    birthdate: 1872
+    gutenberg_agent_id: '6215'
+    url: http://www.gutenberg.org/2009/agents/6215
+    wikipedia: http://en.wikipedia.org/wiki/Sidney_Heath
+  translator:
+    agent_name: Gerhard, J. W.
+    alias: Gerhard, J.W.
+    gutenberg_agent_id: '42475'
+    url: http://www.gutenberg.org/2009/agents/42475
+covers:
+- cover_type: archival
+  image_path: 45696-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2014-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45696'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcsh 'Folklore -- Arab countries'
+- !lcsh 'Arabs -- Folklore'
+- !lcc 'PZ'
+title: Aladdin en de wonderlamp (Verhaal uit de duizend en een nacht)
+url: http://www.gutenberg.org/ebooks/45696
